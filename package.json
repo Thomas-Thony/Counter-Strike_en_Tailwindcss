@@ -1,0 +1,10 @@
+{
+  "name": "mon-projet-tailwind",
+  "version": "1.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14"
+  }
+}

@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss";
+
+@theme {
+    --color-warning: rgba(217, 0, 0, 0.5);
+    --color-success: rgba(25, 135, 84, 0.5);
+    --color-info-title: rgba(255, 255, 255, 1);
+    --color-description: rgba(125, 121, 123, 1);
+}
+
+@theme{
+    --font-Test = "Inter", sans-serif;
+}
