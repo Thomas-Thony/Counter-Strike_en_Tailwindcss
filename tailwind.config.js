@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./Vue/Components/**/*.html"], // ✅ Scan tous les fichiers HTML dans /Vue/Components
+  content: ["./Vue/Components/**/*.html"], 
   theme: {
     extend: {},
   },
